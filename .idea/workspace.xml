@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d71aeabd-3983-4fc9-9459-6d92b1c1221a" name="Default Changelist" comment="" />
+    <list default="true" id="d71aeabd-3983-4fc9-9459-6d92b1c1221a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax01.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax02.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax03.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax04.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax05.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax06.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax07.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax08.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax09.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax10.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax11.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax12.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax13.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax14.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. PythonSyntax/TJPythonSyntax14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin/TJPygLatin02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin/TJPygLatin03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin/TJPygLatin04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin/TJPygLatin05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin/TJPygLatin07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin/TJPygLatin08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin/TJPygLatin09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin/TJPygLatin10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. Functions/TJFunctions17.py" beforeDir="false" afterPath="$PROJECT_DIR$/4. Functions/TJFunctions17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher04.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher08.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher09.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher09.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +56,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WeSBnbY9UxxWcVpI93ndmJs07L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,8 +80,8 @@
       <recent name="E:\Projets\3DW22\Semaine 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MVPythonSyntax12">
-    <configuration name="MVPythonSyntax10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.TJStudentBecomesTheTeacher09">
+    <configuration name="TJStudentBecomesTheTeacher05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Semaine 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -43,12 +89,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. PrintStatement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. PrintStatement/MVPythonSyntax10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MVPythonSyntax11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TJStudentBecomesTheTeacher06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Semaine 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,12 +111,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. PrintStatement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. PrintStatement/MVPythonSyntax11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MVPythonSyntax12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TJStudentBecomesTheTeacher07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Semaine 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,12 +133,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. PrintStatement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. PrintStatement/MVPythonSyntax12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher07.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TJConditionals&amp;ControlFlow12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TJStudentBecomesTheTeacher08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Semaine 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +155,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TJConditionals&amp;ControlFlow13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TJStudentBecomesTheTeacher09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Semaine 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +177,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3. ConditionalsAndControlFlow/TJConditionals&amp;ControlFlow13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6. StudentBecomesTheTeacher/TJStudentBecomesTheTeacher09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MVPythonSyntax12" />
-        <item itemvalue="Python.TJConditionals&amp;ControlFlow13" />
-        <item itemvalue="Python.TJConditionals&amp;ControlFlow12" />
-        <item itemvalue="Python.MVPythonSyntax11" />
-        <item itemvalue="Python.MVPythonSyntax10" />
+        <item itemvalue="Python.TJStudentBecomesTheTeacher09" />
+        <item itemvalue="Python.TJStudentBecomesTheTeacher08" />
+        <item itemvalue="Python.TJStudentBecomesTheTeacher07" />
+        <item itemvalue="Python.TJStudentBecomesTheTeacher06" />
+        <item itemvalue="Python.TJStudentBecomesTheTeacher05" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +231,8 @@
       <workItem from="1579547528646" duration="5593000" />
       <workItem from="1579569019379" duration="1037000" />
       <workItem from="1579580818085" duration="12080000" />
+      <workItem from="1579593393917" duration="709000" />
+      <workItem from="1579595310610" duration="2982000" />
     </task>
     <servers />
   </component>
@@ -200,25 +248,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="264" y="63" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579516645149" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1579593274577">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1579598292005">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579516828190" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579598292005" />
     <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579593274577" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1579593274577">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1579598292005">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579516828190" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579598292005" />
     <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579593274577" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1579593274577">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1579598292005">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579516828190" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579598292005" />
     <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579593274577" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1579593274577">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1579598292005">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579516828190" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579598292005" />
     <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579593274577" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1579516455933">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -241,17 +289,19 @@
     </state>
     <state x="106" y="12" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579548827864" />
     <state x="2381" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579513984085" />
-    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579593406604">
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579595339120">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579547543159" />
-    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579593406604" />
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579595339120" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Semaine_1$TJPrintStatements02.coverage" NAME="TJPrintStatements02 Coverage Results" MODIFIED="1579516664424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJConditionalsAndControlFlow06.coverage" NAME="TJConditionalsAndControlFlow06 Coverage Results" MODIFIED="1579590690408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher09__1_.coverage" NAME="TJStudentBecomesTheTeacher09 (1) Coverage Results" MODIFIED="1579586609601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions05.coverage" NAME="TJFunctions05 Coverage Results" MODIFIED="1579582537293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax02.coverage" NAME="TJPythonSyntax02 Coverage Results" MODIFIED="1579595792387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax05.coverage" NAME="TJPythonSyntax05 Coverage Results" MODIFIED="1579596679494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
     <SUITE FILE_PATH="coverage/Semaine_1$MVPythonSyntax03.coverage" NAME="MVPythonSyntax03 Coverage Results" MODIFIED="1579592078857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PrintStatement" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions08.coverage" NAME="TJFunctions08 Coverage Results" MODIFIED="1579583030130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions14.coverage" NAME="TJFunctions14 Coverage Results" MODIFIED="1579583341359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
@@ -259,8 +309,9 @@
     <SUITE FILE_PATH="coverage/Semaine_1$TJTakingAVacation06.coverage" NAME="TJTakingAVacation06 Coverage Results" MODIFIED="1579588097746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Functions/TakingAVacation" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPygLatin03.coverage" NAME="TJPygLatin03 Coverage Results" MODIFIED="1579588915462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPygLatin06.coverage" NAME="TJPygLatin06 Coverage Results" MODIFIED="1579589569867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax14.coverage" NAME="TJPythonSyntax14 Coverage Results" MODIFIED="1579597805857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions11.coverage" NAME="TJFunctions11 Coverage Results" MODIFIED="1579583141832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
-    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher03.coverage" NAME="TJStudentBecomesTheTeacher03 Coverage Results" MODIFIED="1579585312485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentBecomesTheTeacher" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher03.coverage" NAME="TJStudentBecomesTheTeacher03 Coverage Results" MODIFIED="1579598144133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions02.coverage" NAME="TJFunctions02 Coverage Results" MODIFIED="1579582183782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/Semaine_1$MVPygLatin01.coverage" NAME="MVPygLatin01 Coverage Results" MODIFIED="1579588377759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJConditionals_ControlFlow14.coverage" NAME="TJConditionals&amp;ControlFlow14 Coverage Results" MODIFIED="1579591327732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
@@ -269,30 +320,35 @@
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions06.coverage" NAME="TJFunctions06 Coverage Results" MODIFIED="1579582688335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJConditionalsAndControlFlow02.coverage" NAME="TJConditionalsAndControlFlow02 Coverage Results" MODIFIED="1579590514885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions18.coverage" NAME="TJFunctions18 Coverage Results" MODIFIED="1579583723048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
-    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher09.coverage" NAME="TJStudentBecomesTheTeacher09 Coverage Results" MODIFIED="1579586249013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentBecomesTheTeacher" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax09.coverage" NAME="TJPythonSyntax09 Coverage Results" MODIFIED="1579596962257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPygLatin09.coverage" NAME="TJPygLatin09 Coverage Results" MODIFIED="1579590120127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher09.coverage" NAME="TJStudentBecomesTheTeacher09 Coverage Results" MODIFIED="1579598190421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$MVPythonSyntax12.coverage" NAME="MVPythonSyntax12 Coverage Results" MODIFIED="1579592865646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PrintStatement" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions17.coverage" NAME="TJFunctions17 Coverage Results" MODIFIED="1579596175494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Functions" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax11.coverage" NAME="TJPythonSyntax11 Coverage Results" MODIFIED="1579597419012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPygLatin10.coverage" NAME="TJPygLatin10 Coverage Results" MODIFIED="1579590216257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin" />
-    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher04.coverage" NAME="TJStudentBecomesTheTeacher04 Coverage Results" MODIFIED="1579585396368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentBecomesTheTeacher" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax04.coverage" NAME="TJPythonSyntax04 Coverage Results" MODIFIED="1579596499270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher04.coverage" NAME="TJStudentBecomesTheTeacher04 Coverage Results" MODIFIED="1579598149675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPygLatin04.coverage" NAME="TJPygLatin04 Coverage Results" MODIFIED="1579589215202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin" />
     <SUITE FILE_PATH="coverage/Semaine_1$MVPythonSyntax06.coverage" NAME="MVPythonSyntax06 Coverage Results" MODIFIED="1579592495599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PrintStatement" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions12.coverage" NAME="TJFunctions12 Coverage Results" MODIFIED="1579584181262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJTakingAVacation05.coverage" NAME="TJTakingAVacation05 Coverage Results" MODIFIED="1579587893962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Functions/TakingAVacation" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher06__1_.coverage" NAME="TJStudentBecomesTheTeacher06 (1) Coverage Results" MODIFIED="1579586597520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
-    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher02.coverage" NAME="TJStudentBecomesTheTeacher02 Coverage Results" MODIFIED="1579585222758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher08__1_.coverage" NAME="TJStudentBecomesTheTeacher08 (1) Coverage Results" MODIFIED="1579586604735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher02.coverage" NAME="TJStudentBecomesTheTeacher02 Coverage Results" MODIFIED="1579598140745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPygLatin08.coverage" NAME="TJPygLatin08 Coverage Results" MODIFIED="1579589911253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions19.coverage" NAME="TJFunctions19 Coverage Results" MODIFIED="1579584395013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJTakingAVacation04.coverage" NAME="TJTakingAVacation04 Coverage Results" MODIFIED="1579587720851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Functions/TakingAVacation" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions13.coverage" NAME="TJFunctions13 Coverage Results" MODIFIED="1579583360150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
-    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher08.coverage" NAME="TJStudentBecomesTheTeacher08 Coverage Results" MODIFIED="1579585846911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJConditionals_ControlFlow15.coverage" NAME="TJConditionals&amp;ControlFlow15 Coverage Results" MODIFIED="1579591647293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher08.coverage" NAME="TJStudentBecomesTheTeacher08 Coverage Results" MODIFIED="1579598182067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions10.coverage" NAME="TJFunctions10 Coverage Results" MODIFIED="1579583108019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax10.coverage" NAME="TJPythonSyntax10 Coverage Results" MODIFIED="1579597305225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJTakingAVacation07.coverage" NAME="TJTakingAVacation07 Coverage Results" MODIFIED="1579588173376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Functions/TakingAVacation" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPygLatin02.coverage" NAME="TJPygLatin02 Coverage Results" MODIFIED="1579588668903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJConditionals_ControlFlow12.coverage" NAME="TJConditionals&amp;ControlFlow12 Coverage Results" MODIFIED="1579592682124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
-    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher05.coverage" NAME="TJStudentBecomesTheTeacher05 Coverage Results" MODIFIED="1579585531197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPygLatin05.coverage" NAME="TJPygLatin05 Coverage Results" MODIFIED="1579589296160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher05.coverage" NAME="TJStudentBecomesTheTeacher05 Coverage Results" MODIFIED="1579598155909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions01.coverage" NAME="TJFunctions01 Coverage Results" MODIFIED="1579582111206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJConditionalsAndControlFlow04.coverage" NAME="TJConditionalsAndControlFlow04 Coverage Results" MODIFIED="1579590666722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions07.coverage" NAME="TJFunctions07 Coverage Results" MODIFIED="1579582916024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
@@ -304,21 +360,27 @@
     <SUITE FILE_PATH="coverage/Semaine_1$TJTakingAVacation01.coverage" NAME="TJTakingAVacation01 Coverage Results" MODIFIED="1579587036627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Functions/TakingAVacation" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions16.coverage" NAME="TJFunctions16 Coverage Results" MODIFIED="1579583611310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/Semaine_1$MVPythonSyntax11.coverage" NAME="MVPythonSyntax11 Coverage Results" MODIFIED="1579592607755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PrintStatement" />
-    <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions09.coverage" NAME="TJFunctions09 Coverage Results" MODIFIED="1579583075154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions09.coverage" NAME="TJFunctions09 Coverage Results" MODIFIED="1579595588093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Functions" />
     <SUITE FILE_PATH="coverage/Semaine_1$MVPythonSyntax04.coverage" NAME="MVPythonSyntax04 Coverage Results" MODIFIED="1579592096315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PrintStatement" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions15.coverage" NAME="TJFunctions15 Coverage Results" MODIFIED="1579583681687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax12.coverage" NAME="TJPythonSyntax12 Coverage Results" MODIFIED="1579597449839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJTakingAVacation02.coverage" NAME="TJTakingAVacation02 Coverage Results" MODIFIED="1579587282538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Functions/TakingAVacation" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax06.coverage" NAME="TJPythonSyntax06 Coverage Results" MODIFIED="1579596738985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
     <SUITE FILE_PATH="coverage/Semaine_1$MVPythonSyntax10.coverage" NAME="MVPythonSyntax10 Coverage Results" MODIFIED="1579592545422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PrintStatement" />
-    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher06.coverage" NAME="TJStudentBecomesTheTeacher06 Coverage Results" MODIFIED="1579585744088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentBecomesTheTeacher" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher06.coverage" NAME="TJStudentBecomesTheTeacher06 Coverage Results" MODIFIED="1579598163733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPrintStatements01.coverage" NAME="TJPrintStatements01 Coverage Results" MODIFIED="1579548630699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher01.coverage" NAME="TJStudentBecomesTheTeacher01 Coverage Results" MODIFIED="1579586552626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher01.coverage" NAME="TJStudentBecomesTheTeacher01 Coverage Results" MODIFIED="1579598136589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$MVConditionalsAndControlFlow01.coverage" NAME="MVConditionalsAndControlFlow01 Coverage Results" MODIFIED="1579588323220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJTakingAVacation03.coverage" NAME="TJTakingAVacation03 Coverage Results" MODIFIED="1579587644612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4. Functions/TakingAVacation" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax01.coverage" NAME="TJPythonSyntax01 Coverage Results" MODIFIED="1579596149587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJConditionals_ControlFlow13.coverage" NAME="TJConditionals&amp;ControlFlow13 Coverage Results" MODIFIED="1579592773955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax13.coverage" NAME="TJPythonSyntax13 Coverage Results" MODIFIED="1579597518653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPrintStatements07.coverage" NAME="TJPrintStatements07 Coverage Results" MODIFIED="1579549751390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TJStudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions03.coverage" NAME="TJFunctions03 Coverage Results" MODIFIED="1579582334838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/Semaine_1$MVPythonSyntax09.coverage" NAME="MVPythonSyntax09 Coverage Results" MODIFIED="1579592522986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PrintStatement" />
-    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher07.coverage" NAME="TJStudentBecomesTheTeacher07 Coverage Results" MODIFIED="1579585802522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPygLatin07.coverage" NAME="TJPygLatin07 Coverage Results" MODIFIED="1579589648539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ConditionalsAndControlFlow/PygLatin" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJConditionals_ControlFlow01.coverage" NAME="TJConditionals&amp;ControlFlow01 Coverage Results" MODIFIED="1579598033720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Conditionals&amp;ControlFlow" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher07.coverage" NAME="TJStudentBecomesTheTeacher07 Coverage Results" MODIFIED="1579598169563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
+    <SUITE FILE_PATH="coverage/Semaine_1$TJPythonSyntax07.coverage" NAME="TJPythonSyntax07 Coverage Results" MODIFIED="1579596840424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. PythonSyntax" />
   </component>
 </project>
