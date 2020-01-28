@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d71aeabd-3983-4fc9-9459-6d92b1c1221a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5. Lists&amp;Dictionnaries/ADayAtTheSupermarket/TJADayAtTheSupermarket13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4. Functions/TJFunctions08.py" beforeDir="false" afterPath="$PROJECT_DIR$/4. Functions/TJFunctions08.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/5. Lists&amp;Dictionnaries/ADayAtTheSupermarket" />
@@ -43,7 +42,7 @@
       <recent name="E:\Projets\3DW22\Semaine 1\PrintStatement" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TJADayAtTheSupermarket12">
+  <component name="RunManager" selected="Python.miniProjetPython">
     <configuration name="TJADayAtTheSupermarket07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Semaine 1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,28 +57,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Lists&amp;Dictionnaries/ADayAtTheSupermarket/TJADayAtTheSupermarket07.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TJADayAtTheSupermarket08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Semaine 1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Lists&amp;Dictionnaries/ADayAtTheSupermarket" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Lists&amp;Dictionnaries/ADayAtTheSupermarket/TJADayAtTheSupermarket08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,13 +131,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="miniProjetPython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Semaine 1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/OneDrive - Université de Limoges/3DW22/Semaine 1/Mini-projet" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/OneDrive - Université de Limoges/3DW22/Semaine 1/Mini-projet/miniProjetPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.miniProjetPython" />
         <item itemvalue="Python.TJADayAtTheSupermarket12" />
         <item itemvalue="Python.TJADayAtTheSupermarket07" />
         <item itemvalue="Python.TJADayAtTheSupermarket13" />
         <item itemvalue="Python.TJADayAtTheSupermarket09" />
-        <item itemvalue="Python.TJADayAtTheSupermarket08" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +196,8 @@
       <workItem from="1579593393917" duration="709000" />
       <workItem from="1579595310610" duration="2982000" />
       <workItem from="1579599295217" duration="1130000" />
-      <workItem from="1579631467058" duration="7615000" />
+      <workItem from="1579631467058" duration="8322000" />
+      <workItem from="1579726054186" duration="1065000" />
     </task>
     <servers />
   </component>
@@ -213,55 +213,60 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="264" y="63" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579516645149" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1579638720560">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1579729260107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1579729260107" />
     <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579638720560" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579637881841" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1579638720560">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579640589065" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1579729260107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1579729260107" />
     <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579638720560" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579637881841" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1579638720560">
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579640589065" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1579729260107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1579729260107" />
     <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579638720560" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579637881841" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1579638720560">
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579640589065" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1579729260107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@0.0.1920.1040" timestamp="1579729260107" />
     <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579638720560" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579637881841" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1579635469099">
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579640589065" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1579640589062">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579516455933" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579635469099" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1579635469099">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579640589062" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1579640589061">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579516455933" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579635469099" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1579635469099">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579640589061" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1579640589061">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579516455933" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579635469099" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1579635469099">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579640589061" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1579640589062">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579516455933" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579635469099" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579640589062" />
     <state x="106" y="12" key="SettingsEditor" timestamp="1579548827864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="106" y="12" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579548827864" />
     <state x="2381" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579513984085" />
-    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579631468367">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579768273829">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579599295199" />
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1579726056318" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1579768273829" />
     <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579631468367" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
@@ -375,6 +380,7 @@
     <SUITE FILE_PATH="coverage/Semaine_1$TJStudentBecomesTheTeacher05.coverage" NAME="TJStudentBecomesTheTeacher05 Coverage Results" MODIFIED="1579598155909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. StudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions01.coverage" NAME="TJFunctions01 Coverage Results" MODIFIED="1579582111206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJLists_Dictionnaries13.coverage" NAME="TJLists&amp;Dictionnaries13 Coverage Results" MODIFIED="1579634739208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5. Lists&amp;Dictionnaries" />
+    <SUITE FILE_PATH="coverage/Semaine_1$miniProjetPython.coverage" NAME="miniProjetPython Coverage Results" MODIFIED="1579726070965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/OneDrive - Université de Limoges/3DW22/Semaine 1/Mini-projet" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJPrintStatements03.coverage" NAME="TJPrintStatements03 Coverage Results" MODIFIED="1579549552262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TJStudentBecomesTheTeacher" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJLists_Dictionnaries07.coverage" NAME="TJLists&amp;Dictionnaries07 Coverage Results" MODIFIED="1579634366119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5. Lists&amp;Dictionnaries" />
     <SUITE FILE_PATH="coverage/Semaine_1$TJFunctions16.coverage" NAME="TJFunctions16 Coverage Results" MODIFIED="1579583611310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions" />

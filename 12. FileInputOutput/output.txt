@@ -1,0 +1,10 @@
+1 I'm the first line of the file!
+4 I'm the second line.
+9 Third line here, boss.
+16
+25
+36
+49
+64
+81
+100

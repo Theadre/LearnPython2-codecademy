@@ -1,0 +1,3 @@
+board = []
+
+print(board)
